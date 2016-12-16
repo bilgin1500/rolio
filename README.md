@@ -1,1 +1,3 @@
 # rolio
+
+Designed by Rolakosta for a good and clean starting point on Wordpress projects, this theme supports 3 different layout options (classic, centered and index-exhibit) and two typography color shemes: light and dark. Also with custom background options you can create good amount of design variations. Rolio is based on beautiful underscores and twentyseventeen themes, which both include all the  goodness of modern Wordpress theme design and customization API.

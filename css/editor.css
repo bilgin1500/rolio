@@ -1,0 +1,36 @@
+body,
+button,
+input,
+select,
+textarea {
+    font-size:15px;
+    line-height: 25px;
+    letter-spacing: 0.015em;
+    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+	button,
+	input,
+	select,
+	textarea {line-height: 19px;}
+
+pre,
+code,
+var {font-family: 'Monaco', 'Consolas', 'Andale Mono', 'DejaVu Sans Mono', monospace;}
+
+/* Helpers */
+
+	.warning {
+		padding:10px;
+		text-align: center;
+		background-color: #fffad0;
+		border:1px solid #fff38a;
+	}
+
+		.warning p {margin-bottom: 0;}
+
+	.caption {
+		text-align: center;
+		font-style: italic;
+		font-family: 'Libre Baskerville', 'Baskerville', Garamond, 'Times New Roman', serif;
+	}

@@ -1,0 +1,36 @@
+@font-face {
+	font-family: 'Libre Baskerville';
+	font-style: normal;
+	font-weight: 400;
+	src:
+		local('Libre Baskerville'),
+		local('LibreBaskerville-Regular'),
+		/* from https://fonts.gstatic.com/s/librebaskerville/v4/pR0sBQVcY0JZc_ciXjFsK2F7WC2UG4aaA4SZk0HPHJg.eot */
+		url('Libre_Baskerville_400.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/librebaskerville/v4/pR0sBQVcY0JZc_ciXjFsK5Rby8KfwQsaipLBqMCVNtM.woff */
+		url('Libre_Baskerville_400.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/librebaskerville/v4/pR0sBQVcY0JZc_ciXjFsK6Ucnt8gjcHpqyffjHeZWDA.woff2 */
+		url('Libre_Baskerville_400.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=pR0sBQVcY0JZc_ciXjFsK0a0MgkfBR95Z0kZUwmzdX4&skey=1ccff9706b4dcbb3&v=v4#LibreBaskerville */
+		url('Libre_Baskerville_400.svg#LibreBaskerville') format('svg'),
+		/* from https://fonts.gstatic.com/s/librebaskerville/v4/pR0sBQVcY0JZc_ciXjFsKwAUTJOA6-irsSazDq377BE.ttf */
+		url('Libre_Baskerville_400.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Libre Baskerville';
+	font-style: italic;
+	font-weight: 400;
+	src:
+		local('Libre Baskerville Italic'),
+		local('LibreBaskerville-Italic'),
+		/* from https://fonts.gstatic.com/s/librebaskerville/v4/QHIOz1iKF3bIEzRdDFaf5ZBQH13TilI9-e620I2pL1I.eot */
+		url('Libre_Baskerville_400italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/librebaskerville/v4/QHIOz1iKF3bIEzRdDFaf5dgliI79_bmRXH6crmREtCo.woff */
+		url('Libre_Baskerville_400italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/librebaskerville/v4/QHIOz1iKF3bIEzRdDFaf5eUHi-3yDrzgLLsrfaKVF9k.woff2 */
+		url('Libre_Baskerville_400italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=QHIOz1iKF3bIEzRdDFaf5f8arhTf3IhpJG-4h56ptSk&skey=44cd15477bf5bb2d&v=v4#LibreBaskerville */
+		url('Libre_Baskerville_400italic.svg#LibreBaskerville') format('svg'),
+		/* from https://fonts.gstatic.com/s/librebaskerville/v4/QHIOz1iKF3bIEzRdDFaf5ZEdosCNS0EvOwDBzJZsz8o.ttf */
+		url('Libre_Baskerville_400italic.ttf') format('truetype');
+}
